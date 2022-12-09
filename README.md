@@ -1,2 +1,2 @@
 # ornek
-ornek
+Rasgele Sayı Tutma Uygulaması
